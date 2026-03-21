@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://www.halal-boucherie.fr/sitemap.xml
+Sitemap: https://www.orthopraxis-ohv.de/sitemap.xml
